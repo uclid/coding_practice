@@ -1,3 +1,5 @@
+<?php
+
 /*
 Q: Given an array of strings, return another array containing all of its longest strings.
 */
@@ -20,3 +22,4 @@ function solution($inputArray) {
     return $sol_array;
 
 }
+?>
